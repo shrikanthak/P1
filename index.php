@@ -47,7 +47,7 @@
             </li>
             <li>
                 <h3>What previous experience do you have with programming?</h3>
-                <p>Enough to be dangerous</p>
+                <p>I have a few experience in programming.</p>
             </li>
             <li>
                 <h3>Have you worked with PHP before? If so, to what extent?</h3>
@@ -55,7 +55,7 @@
             </li>
             <li>
                 <h3>Describe your level of experience with programming.</h3>
-                <p>I have a total of around 9 years in programming primarily Windows applications using different languages</p>
+                <p>I have a total of around 9 years in programming primarily Windows applications using different languages such as VB6, C++, Fortran, VB.Net, VBA,, etc.</p>
             </li>
             <li>
                 <h3>Are you working on a Mac, PC, or some other platform?</h3>
@@ -63,7 +63,7 @@
             </li>
             <li>
                 <h3>Anything else we should know?</h3>
-                <p>I have nothing extraordinary to mention</p>
+                <p>I have nothing special to mention</p>
             </li>
         </ul>
     </div>
