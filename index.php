@@ -47,7 +47,7 @@
             </li>
             <li>
                 <h3>What previous experience do you have with programming?</h3>
-                <p>I have a few experience in programming.</p>
+                <p>I have a few years experience in programming.</p>
             </li>
             <li>
                 <h3>Have you worked with PHP before? If so, to what extent?</h3>
